@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Nunito:wght@300;800&display=swap');
+body{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 300;
+}
+b{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800 !important;
+    color: orangered;
+}
+h1, h2, h3, h4, h5{
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 700;
+}
+.bodypainting_photos{
+    font-size: 1px !important;
+}
+h2{
+    font-size: 40px !important;
+    margin: 20px 0px !important;
+}
+
+h3{
+    font-size: 30px !important;
+    margin: 10px 0px !important;
+}
+
+
+h4{
+    font-size: 24px !important;
+    border-bottom: 1px solid #FFF;
+    margin: 10px 0px !important;
+}
+.boxCarro{
+    opacity: 0;
+}
+.whatsapp {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 90px;
+    right: 40px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 38px;
+    z-index: 100;
+    padding: 10px;
+}
+.pintura-corporal-promocion{
+    margin: auto;
+    max-width: 800px;
+    width: 90%;
+    border: 1px solid #ff4500;
+    padding: 10px;
+    text-align: center;
+    border-radius: 40px;
+    margin-top: 11px;
+}
+.bodypainting-usa{
+    font-size: 2em; font-weight: bold; text-align: center; margin-bottom: 17px;
+}
+.pinturacorporal{
+    font-size: 15px !important; margin-top: -18px !important;
+    text-align: center;
+}
+.bodypaint-blog{
+    all: initial; 
+    font-family: 'Nunito', sans-serif; 
+    font-size: 1.1em;
+}
+.bodypaint-blog img{
+    margin: auto;
+    border: 1px solid #cecccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+iframe[title="YouTube video player"] {
+    margin: auto;
+    border: 1px solid #cecccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 100%;
+    max-width: 600px;
+}
