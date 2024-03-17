@@ -1,6 +1,9 @@
 /node_modules
 /public/hot
 /public/storage
+/public/images/base-corporal-liquida
+/public/images/bodypainting
+/public/images/bodypainting-colors
 /storage/*.key
 /vendor
 .env
